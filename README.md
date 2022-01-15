@@ -11,7 +11,7 @@
 
 <br>
 
-> OneSide Cli is a package for [OneSide](https://www.npmjs.com/package/oneside).
+> OneSide Cli is a package for [OneSide](https://github.com/Marius-brt/oneside-js).
 
 OneSide Cli allow you to create easly a OneSide project (currently not working for TypeScript project). Watch the [OneSide](https://github.com/Marius-brt/oneside-js) repo to learn how to create a project.
 
