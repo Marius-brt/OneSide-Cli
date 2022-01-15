@@ -1,0 +1,19 @@
+{
+  "name": "oneside-cli",
+  "version": "1.1.2",
+  "description": "OneSide Cli",
+  "main": "cli.js",
+  "bin": {
+    "oneside": "bin/cli"
+  },
+  "author": "marius.brt",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "download": "^8.0.0",
+    "empty-dir": "^2.0.0",
+    "esm": "^3.2.25",
+    "open": "^8.0.4",
+    "shelljs": "^0.8.4"
+  }
+}
